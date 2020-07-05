@@ -1,13 +1,13 @@
 # BeTheHero
 
 <h1 align="center">
-    <img alt="Be The Hero" title="#delicinha" src=".github/logo.svg" width="250px" />
+    <img alt="Be The Hero" title="#delicinha" src="frontend/src/assets//logo.svg" width="250px" />
 </h1>
 
 <p align="center">Projeto da Semana OmniStack 11.0<p>
 
 <p align="center">
-  <img alt="Frontend" src=".github/be-the-hero-desktop.gif" width="50%">
+  <img alt="Frontend" src="frontend/src/assets//be-the-hero-desktop.gif" width="50%">
 </p>
 
 ## Tecnologias
